@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct TamagotchiAppApp: App { 
+struct TamagotchiAppApp: App {
     var body: some Scene {
         WindowGroup { 
             ContentView()
         }
     }
 }
+

@@ -27,8 +27,16 @@ class TamagotchiAppUITests: XCTestCase {
         let app = XCUIApplication()
         app.launch()
 
-        // Use recording to get started writing UI tests.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        
+//        let feedMealButton = app.buttons["Feed Meal"]
+//        feedMealButton.tap()
+//        feedMealButton.tap()
+//
+//
+//        app.staticTexts["Weight: 🍰🍰🍰🍰🍰"].tap()
+//        app.buttons["Feed Meal"].tap()
+//        app.staticTexts["Weight: 🍰🍰🍰🍰🍰🍰"].tap()
+        
     }
 
     func testLaunchPerformance() throws {
